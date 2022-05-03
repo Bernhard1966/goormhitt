@@ -1,0 +1,16 @@
+/* Grundlagen */
+
+
+// MySQL DB-Start
+mysql-ctl starten
+sudo-Dienst mysql starten
+
+// MySQL-DB-Stopp
+mysql-ctl stoppen
+
+// Start der MySQL-DB-CLI
+// Befehlszeilenschnittstelle
+mysql-ctl-cli
+
+// MySQL-DB-CLI-Exit
+Ausfahrt

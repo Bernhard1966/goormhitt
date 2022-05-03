@@ -36,6 +36,9 @@ age INT
 
 );
 
+INSERT INTO test(name,age) VALUES ( " Grizabella " , 29 );
+INSERT INTO test(age,name) VALUES ( 35 , " Alonzo " );
+
 
 
 /* Alle Tabellen in der DB anzeigen */
@@ -45,4 +48,3 @@ SHOW TABLES;
 
 /* Struktur der Tabelle anzeigen */
 DESCRIBE test;
-#hallo von zuhause

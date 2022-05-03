@@ -1,0 +1,11 @@
+// Datenbanken anzeigen
+DATENBANKEN ANZEIGEN;
+
+// Datenbank anlegen
+DATENBANK ERSTELLEN boo;
+
+// Datenbank auswaehlen
+BENUTZEN Sie Buh;
+
+// DB loeschen --> Dann ist ALLES weg!
+DATENBANK LÖSCHEN boo;
