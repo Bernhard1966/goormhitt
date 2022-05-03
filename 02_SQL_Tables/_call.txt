@@ -1,4 +1,4 @@
 source 02_SQL_Tables/02a_db_table_SQL_.sql
 source 02_SQL_Tables/02b_db_table_SQL_.sql
 
-gruß zurück
+
