@@ -17,6 +17,12 @@ CREATE TABLE IF NOT EXISTS boo.users
     VALUES ("Maxl","Max","Mützererich",SHA1("user1234"));
     
     SELECT * FROM boo.users;
-    
+    ALTER TABLE 
+        boo.users
+    ADD 
+        userPLZ VARCHAR(5) NOT NULL DEFAULT "00000";
+        UPDATE boo.users SET userPLZ"70376" WHERE id = 1;
+        UPDATE boo.users SET userPLZ"70376" WHERE firstName = "Maxine";
+DESCRIBE boo.users;
     
     

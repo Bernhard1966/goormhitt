@@ -1,0 +1,13 @@
+id 			-- ID
+c_name   	-- Name des Unternehmens
+ticker   	-- DOW Ticker-Symbol
+sector   	-- Industrie-Sektor
+industry 	-- Branche
+no_yrs 		-- Jahre, seitdem ununterbrochen Dividende gesteigert werden
+ranking 	-- Ranking in der Liste
+price 		-- Preis pro Aktie in $ per 12/2019
+yield		-- Dividendenrendite (Dividendenanteil *100) / Aktienkurs
+dividend 	-- Dividendenanteil pro Aktie (Ausschuettung)
+payouts 	-- wieviel mal wird pro Jahr gezahlt?
+annualized	-- jaehrlich
+
