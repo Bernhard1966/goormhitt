@@ -1,0 +1,8 @@
+source 05_sql_SELECT/05_1_parsing_csv.sql
+
+boo.cats
+source 04_SQL_Datenimport/04c_DB_ select.sql
+ausgaben
+source 05_sql_SELECT/05_2que_basic.sql
+source 05_sql_SELECT/05_3_que_sort.sql
+source 05_sql_SELECT/05_4_que_filter.sql
