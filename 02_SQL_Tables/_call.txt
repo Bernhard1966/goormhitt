@@ -1,5 +1,3 @@
 source 02_SQL_Tables/02a_db_table_SQL_.sql
 source 02_SQL_Tables/02b_db_table_SQL_.sql
-
-source 02_SQL_Tables/02c_db_table_SQl_.sql
 source 02_SQL_Tables/02d_db_table_SQl__.sql
