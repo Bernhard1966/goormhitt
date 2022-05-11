@@ -1,4 +1,4 @@
-/* Datenimport - csv mit ID */
+abcd1234#/* Datenimport - csv mit ID */
 
 /* DB */
 DROP DATABASE IF EXISTS stocks;
