@@ -17,7 +17,7 @@ LOAD DATA LOCAL INFILE "04_SQL_Datenimport/data/cats_export.csv"
 INTO TABLE boo.cats
 FIELDS TERMINATED BY ";"
 LINES TERMINATED BY "\n"
-IGNORE 1 ROWS
+IGNORE 1 ROWS//ignoriere die erste zeile der eingefügten Tabelle
 ;
 
 SELECT * FROM boo.cats;
